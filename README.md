@@ -1,4 +1,4 @@
-# 6-Keys-Micropad-with-Knob
+# Pulsar Spotify Display
 
 # Firmware:
 
