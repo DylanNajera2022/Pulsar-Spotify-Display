@@ -1,0 +1,4 @@
+Reference;Qty;Value;Footprint
+SW1, SW2, SW3;3;SW_Push;Button_Switch_Keyboard:SW_Cherry
+U1;1;ESP32-C3_SUPERMINI_SMD;OPL:XIAO-ESP32C3-DIP
+DS1;1;1.8 Inch TFT LCD ST7735;Display_TFT:ST7735_1.8inch_SPI
