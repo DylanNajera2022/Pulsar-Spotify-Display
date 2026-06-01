@@ -4,9 +4,16 @@ This is Pulsar, the Spotify display. This was a very simple project, but I reall
 # Firmware:
 I didn't focus too much on the firmware; I just basically took what the tutorial gave us, so I can't go into much detail about it.
 
+# Diagram:
+This is the diagram of how I plan to connect everything. It's very simple, to be honest, but it will help me organize things when I'm connecting everything.
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/aa12083a-772e-4766-b125-b005c696f03b" />
+
+
 # Case:
-For the case, I followed the tutorial they gave us. I already had some experience with Fusion, having previously made a case for a line-following robot and a case for a macropad. So, this process of making the case was fairly easy for me. And I enjoyed the whole process. That's all for the case.<img width="986" height="562" alt="Captura de pantalla 2026-04-20 111759" src="https://github.com/user-attachments/assets/1d5c9f1e-168b-48bc-baaa-2e59f5c597d3" />
-<img width="512" height="631" alt="image" src="https://github.com/user-attachments/assets/2dd1e648-ee2e-4e1d-ab08-d051754fd812" />
+For the case, I followed the tutorial they gave us. I already had some experience with Fusion, having previously made a case for a line-following robot and a case for a macropad. So, this process of making the case was fairly easy for me. And I enjoyed the whole process. That's all for the case.
+
+<img width="588" height="559" alt="image" src="https://github.com/user-attachments/assets/1f54e70f-21be-4c26-89f9-f694a3140e9c" />
+<img width="552" height="419" alt="image" src="https://github.com/user-attachments/assets/3efcb788-00eb-4ac7-be9a-15aae7596a81" />
 
 
 # BOM:
